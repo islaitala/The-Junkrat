@@ -1,0 +1,3 @@
+There is bunch of junk code, that might be the hardest part to overcome.
+There is also pretty basic antidebug methods in place. Also many strings are encrypted and some
+function calls are kind of obfuscated.
